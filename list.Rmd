@@ -1,0 +1,36 @@
+---
+title: "LIST"
+author: "ce"
+date: "6/22/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Things I like
+
+*Things I really like*
+
+- Movies
+  1. **History**
+  2. Comedy
+- Statistics
+
+## Things my son likes
+
+**I think what he likes**
+
+- Bike
+- Roblox
+
+This is a peaceful picture:
+
+![](../images/cloud.jpg)
+
+
+```{r}
+
+```
+

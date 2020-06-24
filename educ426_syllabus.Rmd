@@ -1,0 +1,12 @@
+---
+title: "Educ426_syllabus"
+author: "ce"
+date: "6/24/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
