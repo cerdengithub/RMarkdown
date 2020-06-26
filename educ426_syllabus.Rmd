@@ -9,7 +9,5 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r}
-# Let's see what happens!
-```
+
 
